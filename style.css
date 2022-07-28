@@ -23,8 +23,7 @@ body {
     top: 50;
     left: 50;
     translate: middle;
-    position: absolute;
-   
+    position: absolute; 
  }
  #carousel-item-feedback::before {
     content: "";
