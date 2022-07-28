@@ -20,7 +20,11 @@ body {
     opacity: 0.5;
 }  
  .carousel-caption {
+    top: 50;
+    left: 50;
+    translate: middle;
     position: absolute;
+   
  }
  #carousel-item-feedback::before {
     content: "";
